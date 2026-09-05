@@ -1,1 +1,24 @@
-/* Your CSS here. */
+.biography {
+    background-color: grey;
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+
+}
+.image {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    
+    
+}
+
+h1, h2,p {
+    color: white;
+}
+
+.biography p {
+    text-align: left;
+    line-height: 1.5;
+}
